@@ -1,4 +1,4 @@
-pyafipws
+pyafipws_gus 
 ========
 
 PyAfipWs contains Python modules to operate with web services regarding AFIP (Argentina's "IRS") and other government agencies, mainly related to electronic invoicing, several taxes and traceability.
